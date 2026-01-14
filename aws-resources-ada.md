@@ -15,3 +15,13 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-notebooks-instances
 https://docs.aws.amazon.com/sagemaker/latest/dg/processing-job.html
 
 https://docs.aws.amazon.com/sagemaker/latest/dg/use-scikit-learn-processing-container.html
+
+
+
+## End-to-End Project to explore:
+Feature engineering with scikit-learn on Databricks
+Summary: 
+
+This end-to-end ML 
+example - databricks official resource pages# 
+ covers data visualization, hyperparameter tuning with SparkTrials, tracking experiments in MLflow, model registration, deployment, and serving using AWS technologies. Key steps include exploratory data analysis, training baseline and xgb models, logging metrics for comparison, finding the best model, and setting up low-latency predictions.
