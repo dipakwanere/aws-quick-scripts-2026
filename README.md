@@ -37,6 +37,10 @@ Amazon Kinesis - Platform to ingest, process, and analyze streaming data
 
 AWS Lambda - Serverless compute to run code without managing servers
 
+Hyperparameter optimization - Finding optimal model configuration settings to maximize performance.
+#MLflow model tracking - Logging parameters, metrics, and output models during runs for experiment tracking.
+Sagemaker kmeans++ hyperparameter optimization - Define hyperparameter ranges for the KMeans estimator
+
 AWS Data Ingestion and Pipelines:
 <img width="1314" height="676" alt="image" src="https://github.com/user-attachments/assets/a4fe60eb-cd49-42a1-9b31-29d54e36b717" />
 
