@@ -44,7 +44,11 @@ Amazon EMR - Hosts frameworks like Spark and Hadoop for distributed data process
 
 Amazon Kinesis - Platform to ingest, process, and analyze streaming data
 
-AWS Lambda - Serverless compute to run code without managing servers
+AWS Lambda - Serverless compute to run code without managing servers. Serverless compute service that runs code in response to events like http requests or file uploads.
+
+Amazon SageMaker: Fully managed machine learning service for building, training, tuning, deploying and managing models.
+
+Principle of Least Privilege: Restricting access permissions for identities to only those needed to perform their tasks to improve security.
 
 Hyperparameter optimization - Finding optimal model configuration settings to maximize performance.
 #MLflow model tracking - Logging parameters, metrics, and output models during runs for experiment tracking.
