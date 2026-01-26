@@ -58,7 +58,7 @@ AWS Data Ingestion and Pipelines:
 
 ## AWS Flavored - Containerised DevOps
 
-![AWS DevOps Architecture](image.png)
+![AWS DevOps Architecture] ![alt text](image.png)
 
 This repository is tailored specifically for teams deploying on AWS infrastructure with containerized applications. You'll find practical examples and configurations optimized for services like ECS, EKS, Lambda, and CloudWatch—giving your DevOps practice the AWS-native touch it needs.
 
