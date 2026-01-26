@@ -17,6 +17,15 @@
 
 
 
+Elastic Compute Cloud (EC2) - Scalable compute capacity in the AWS cloud. Provides configurable virtual machine instances.
+Elastic Block Store (EBS) - Persistent block storage volumes that can be attached to EC2 instances. Enables attaching data drives.
+
+Auto Scaling - Service to automatically launch or terminate EC2 instances based on metrics like CPU utilization to maintain application availability.
+
+Elastic Load Balancing - Service to distribute application traffic across multiple targets like EC2 instances in multiple availability zones to improve fault tolerance.
+
+Amazon Machine Image (AMI) -  Preconfigured virtual machine image used to launch EC2 instances. Determines software configuration.
+
 Amazon EBS - Block storage volumes that allow custom disk I/O performance
 
 AWS Storage Gateway - On-premises device to integrate legacy data with S3
@@ -44,6 +53,16 @@ Sagemaker kmeans++ hyperparameter optimization - Define hyperparameter ranges fo
 AWS Data Ingestion and Pipelines:
 <img width="1314" height="676" alt="image" src="https://github.com/user-attachments/assets/a4fe60eb-cd49-42a1-9b31-29d54e36b717" />
 
+
+
+
+## AWS Flavored - Containerised DevOps
+
+![AWS DevOps Architecture](image.png)
+
+This repository is tailored specifically for teams deploying on AWS infrastructure with containerized applications. You'll find practical examples and configurations optimized for services like ECS, EKS, Lambda, and CloudWatch—giving your DevOps practice the AWS-native touch it needs.
+
+---
 
 #### Service Usages & Application:
 
